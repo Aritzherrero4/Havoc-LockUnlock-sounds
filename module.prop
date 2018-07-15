@@ -1,0 +1,7 @@
+id=AH-havoc
+name=Havoc lock-unlock sounds
+version=v1
+versionCode=1
+author=aritzherrero4
+description=Replace system lock and unlock sounds with the ones integrated on HAVOC
+minMagisk=1500
